@@ -1,0 +1,1 @@
+Escrever dentro do arquivo atraves do writer
